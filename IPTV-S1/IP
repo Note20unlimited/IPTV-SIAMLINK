@@ -1,0 +1,162 @@
+{
+	"name": "IPTV-SIAMLINK",
+	"author": "SIAMLINK.ONLINE",
+ "info": "🙏IPTV-SIAMLINK
+เป็นแค่การรวบรวมทีวีออนไลน์ โดยมีจุดประสงค์เพื่อประชาสัมพันธ์และส่งเสริมช่องรายการทีวีต่างๆ บนอินเตอร์เน็ตสำหรับผู้ที่ไม่สะดวกในการรับชมผ่านเครื่องรับโทรทัศน์เท่านั้น ไม่มีการทำซ้ำหรือเปลี่ยนแปลงใดๆที่ส่งผลกับช่องทีวีนั้นๆ การกระทำนี้มิได้มีวัตถุประสงค์เป็นการแสวงหาประโยชน์หรือสนับสนุนการกระทำผิดต่อกฎหมายใดทั้งสิ้น
+
+
+Copyright ©2024 Siamlink.com All rights reserved
+",
+
+	"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/FB_IMG_1716214529947.jpg",
+	"url": "https://raw.githubusercontent.com/Note20unlimited/SIAMLINK-HD/main/1080p",
+	"groups": [
+	{
+		"name": "กีฬาต่างเทศ",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXZQA8CWtvRf7R-l00M1YXkLEXfITYvAvSA&usqp=CAU",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8",
+		"import":"false"
+	},
+{
+		"name": "SIAM HD SPORT",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxXPCq93sWnhliV05JLMFg5Bg2s73GzfmCA&usqp=CAU",
+		"url": "https://pastebin.com/raw/gxJtx88H",
+		"import":"false"
+	},
+
+
+{
+"name"              :     "Sport Channel",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
+"url"               :     "https://pastebin.com/EhARAHhP",
+"import": false
+},
+
+
+{
+"name": "Japan TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2_uZlvxVdoLf7kxMjLUDIYnTCUvIO0GRityPJLxoGzQS1-dF0CGLdNsDCJKMYTiTXUE&usqp=CAU",
+"url": "https://pastebin.com/raw/kdzS7nSx",
+"import": "true"
+},
+
+{
+"name": "Kids",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+"url": "https://pastebin.com/5ReNzFMp",
+"import": false
+},
+
+
+
+{
+"name"              :     "Radio Online",
+"image"             :     "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
+"url"               :     "https://pastebin.com/XEBsKWZr",
+"import": false
+},
+
+
+
+{
+"name": " Documentary",
+"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6dc8d256-46ca-4aa1-b0ac-f2f1d1eaa538/dcjd0z4-6f8337da-d458-4107-b4f2-f9e258be0beb.png/v1/fill/w_512,h_512,q_80,strp/documentary_folder_icon_by_oussi20om_dcjd0z4-fullview.jpg",
+"url": "https://pastebin.com/D9Mzy7MQ",
+"import": false
+},
+
+{
+"name": "TV Korea",
+"image": "https://play-lh.googleusercontent.com/BJOrGneekmEEn7xQRFES3Ge-F-AaV0xg-LlpjP3pi8LfNj8MN_eH596nGreKKGCudw",
+"url": "https://pastebin.com/asFQKSdJ",
+"import": false
+},
+
+
+{
+"name": "News Channel",
+"image": "https://i.pinimg.com/736x/fa/22/d7/fa22d7e72e9819b48960fa45a640f89f.jpg",
+"url": "https://pastebin.com/Fb1wh4uz",
+"import": "true"
+},
+
+
+	
+{
+		"name": "รายการทีวีสด",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUdzmMPJPfUx5RWzs8pAh_gOe3nHupcT-RQ&usqp=CAU",
+		"url": "https://pastebin.com/raw/Lv1J1Kwn",
+		"import":"false"
+	},
+	{
+		"name": "หนัง2024",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpj_6M3T3J1L36zD75kcvYG2G6bR04awGiA&usqp=CAU",
+		"url": "https://pastebin.com/J6H7a6AP",
+		"import":"false"
+	},
+{
+		"name": "ฟุตบอลใหม่",
+		"image": "https://pbs.twimg.com/media/D9MAKscU0AEQq9D.jpg:large",
+		"url": "https://raw.githubusercontent.com/Note20unlimited/SIAMLINK-HD/main/NON2",
+"import":"false"
+	},
+	
+
+	{
+		"name": "ช่องจานดาวเทียม",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmH4AXBMxEbLiUm6epQ4OLrdvIxgzpOEu-Ew&usqp=CAU",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/th.m3u",
+"import":"false"
+	},
+{
+"name": "MOVIE NEW",
+"image": "https://lajoyalink.com/wp-content/uploads/2018/03/Movie.jpg",
+"url": "https://pastebin.com/cZ01eqEV",
+"import": false
+},
+ 
+{
+"name": "SERIES NEW1️⃣",
+"image": "https://plusaround.com/wp-content/uploads/2020/10/korea-series.jpg.webp",
+"url": "https://pastebin.com/re3i4xHy",
+"import": false
+},
+ {
+		"name": "SERIES NEW2️⃣",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmH4AXBMxEbLiUm6epQ4OLrdvIxgzpOEu-Ew&usqp=CAU",
+		"url": "https://tinyurl.com/2s3ah6kx",	"import":"false"
+	},
+ {
+		"name": "หนัง",
+		"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/1715522688917.jpg",
+		"url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
+		"import":"false"
+	},
+	{
+		"name": "SIAMLINK-หนังออนไลน์",
+		"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/1715917176597.jpg",
+		"url": "https://citly.me/FN73u",
+		"import":"false"
+	},
+ {
+		"name": "รวมช่อง",
+		"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/1715522688917.jpg",
+		"url": "https://pastebin.com/raw/YpDkAZPg",
+		"import":"false"
+	},
+	{
+		"name": "หนัง18+",
+		"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/1715522688917.jpg",
+		"url": "https://pastebin.com/raw/4cK8pDMP",
+		"import":"false"
+	},
+ {
+		"name": "Live สด",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio0Uay4crctOBpAUIkNfukRiRTd2oA6ULpA&usqp=CAU",
+		"url": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/20231207_172943.jpg",
+		"import":"false"
+	},
+	
+	
+      ]
+    }]}]}]}
