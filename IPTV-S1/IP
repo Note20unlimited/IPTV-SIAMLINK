@@ -13,7 +13,7 @@ Copyright ©2024 Siamlink.com All rights reserved
 	"groups": [
 	{
 		"name": "THAILAND-1",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXZQA8CWtvRf7R-l00M1YXkLEXfITYvAvSA&usqp=CAU",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio0Uay4crctOBpAUIkNfukRiRTd2oA6ULpA&usqp=CAU",
 		"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/th_goprimetime.m3u",
 		"import":"false"
 	},
