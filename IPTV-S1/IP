@@ -9,10 +9,10 @@ Copyright ©2024 Siamlink.com All rights reserved
 ",
 
 	"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/FB_IMG_1716214529947.jpg",
-	"url":"https://raw.githubusercontent.com/Note20unlimited/SIAMLINK-HD/main/1080p",
+	"url":"https://raw.githubusercontent.com/Note20unlimited/IPTV-SIAMLINK/main/IPTV-S1/IP",
 	"groups": [
 	{
-		"name": "THAILAND-1",
+		"name": "ช่องonline-720p",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio0Uay4crctOBpAUIkNfukRiRTd2oA6ULpA&usqp=CAU",
 		"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/th_goprimetime.m3u",
 		"import":"false"
