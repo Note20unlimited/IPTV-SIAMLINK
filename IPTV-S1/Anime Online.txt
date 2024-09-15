@@ -13,15 +13,10 @@
 {
 "name": "api_xyz",
 "image": "https://www.123-hd.com/wp-content/uploads/2022/05/SPY-x-FAMILY-300x450.png",
-"url": " https://surrit.com/87b73290-d747-4436-8dfd-38b62886c1be/1280x720/video.m3u8",
+"url": "https://raw.githubusercontent.com/Note20unlimited/IPTV-SIAMLINK/main/IPTV-S1/aza",
 "import": false
 },
-{
-"name": "api_xyz2",
-"image": "https://www.123-hd.com/wp-content/uploads/2022/05/SPY-x-FAMILY-300x450.png",
-"url": "  https://surrit.com/845bebcc-8e7c-4d16-9d96-f9a9288b3f37/1280x720/video.m3u8",
-"import": false
-},
+
 
 
 
