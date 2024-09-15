@@ -2,7 +2,7 @@
 "name": "Anime Online",
 "author": "WIN",
 "image": "https://media.cdnandroid.com/60/74/4f/24/96/imagen-animeonline-ver-anime-online-gratis-animeflv-0thumb.jpg",
-"url": "https://pastebin.com/b0spFvmR",
+"url": "https://raw.githubusercontent.com/Note20unlimited/IPTV-SIAMLINK/main/IPTV-S1/Anime%20Online.txt",
 "info": "",
 
 
@@ -13,7 +13,7 @@
 {
 "name": "SPY x FAMILY พากย์ไทย+ซับไทย (จบแล้ว)",
 "image": "https://www.123-hd.com/wp-content/uploads/2022/05/SPY-x-FAMILY-300x450.png",
-"url": "https://pastebin.com/1i7S2vjd",
+"url": " https://surrit.com/845bebcc-8e7c-4d16-9d96-f9a9288b3f37/1280x720/video.m3u8",
 "import": false
 },
 
@@ -21,7 +21,7 @@
 {
 "name": "Sono Bisque Doll wa Koi wo Suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์พากย์ไทย(จบแล้ว)",
 "image": "https://i0.wp.com/anime-hit.com/wp-content/uploads/2022/03/Sono-Bisque-Doll-wa-Koi-wo-suru-.jpg?w=424&ssl=1",
-"url": "https://pastebin.com/SAM5aQVH",
+"url": " https://surrit.com/87b73290-d747-4436-8dfd-38b62886c1be/1280x720/video.m3u8",
 "import": false
 },
 
