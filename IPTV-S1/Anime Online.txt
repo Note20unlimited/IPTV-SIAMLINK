@@ -1,6 +1,6 @@
 {
-"name": "Anime Online",
-"author": "non",
+"name": "AV",
+"author": "nothai009",
 "image": "https://media.cdnandroid.com/60/74/4f/24/96/imagen-animeonline-ver-anime-online-gratis-animeflv-0thumb.jpg",
 "url": "https://raw.githubusercontent.com/Note20unlimited/IPTV-SIAMLINK/main/IPTV-S1/Anime%20Online.txt",
 "info": "",
