@@ -54,5 +54,51 @@
 "playInNatPlayer": "true" 
 }, 
 
+{ 
+"name": "jav7",  
+"image": 
+"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/spy-x-family.jpg?w=424&ssl=1", 
+"url": "https://surrit.com/845bebcc-8e7c-4d16-9d96-f9a9288b3f37/1280x720/video.m3u8", 
+"playInNatPlayer": "true" 
+},
+ 
+ 
+{ 
+"name": "jav8",  
+"image": 
+"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/spy-x-family.jpg?w=424&ssl=1", 
+"url": "https://surrit.com/87b73290-d747-4436-8dfd-38b62886c1be/1280x720/video.m3u8", 
+"playInNatPlayer": "true" 
+},   
+
+{ 
+"name": "jav9",  
+"image": 
+"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/spy-x-family.jpg?w=424&ssl=1", 
+"url": "https://t21.cdn2020.com/video/m3u8/2023/02/28/0beffb22/index.m3u8", 
+"playInNatPlayer": "true" 
+}, 
+ 
+{ 
+"name": "jav10",  
+"image": 
+"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/spy-x-family.jpg?w=424&ssl=1", 
+"url": "https://q2cyl7.cdnedge.live/file/avple-images/hls/628ab167a1c1cd0b44683ef6/playlist.m3u8", 
+"playInNatPlayer": "true" 
+},
+
+{ 
+"name": "เพิ่ม+",  
+"image": 
+"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/spy-x-family.jpg?w=424&ssl=1", 
+"url": "https://q2cyl7.cdnedge.live/file/avple-images/hls/628ab167a1c1cd0b44683ef6/playlist.m3u8", 
+"playInNatPlayer": "true" 
+}, 
+
+
+
+
+
+
 ]
 }
